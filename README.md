@@ -9,7 +9,7 @@ crea dinámicamente una tabla con la información recolectada, allí se evidenci
 
 💡 Utlilizamos Git gub pages para hostear la actividad:
 
-[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />]https://alyconr.github.io/proyecto-final/
+[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />](https://alyconr.github.io/proyecto-final/)
  
 
 
