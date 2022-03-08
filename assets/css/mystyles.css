@@ -124,6 +124,6 @@ html {
     color: black;
 }
 
-.color-item {
-    color: #aca6a6;
+.color-item:hover {
+    color: #2c2c2c;
 }
