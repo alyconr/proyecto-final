@@ -1,0 +1,129 @@
+html {
+    background-color: rgb(247, 239, 239);
+    box-sizing: border-box;
+   
+}
+*, *::before, *::after {
+   
+    box-sizing: inherit;
+   
+    
+}
+
+
+
+
+.header-background {
+    max-width: 100%;
+    height: 30rem;
+      background: url('../img/pexels-manuel-geissinger-325229.jpg') ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+
+}
+.container {
+    position: absolute;
+    margin: 50px;
+    width: 100%;
+  }
+.navbar-customclass {
+    background-color: none;
+
+}
+/* changing brand text color*/
+.navbar-customclass .navbar-brand,
+.navbar-customclass .navbar-text {
+    color: #1d1d1d;
+}
+/* navigation link text color */
+.navbar-customclass .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* navigation links anchor hover and active styles */
+.navbar-customclass .nav-item.active .nav-link,
+.navbar-customclass .nav-item:hover .nav-link {
+    color: #fdfcfc;
+}
+
+#img-navbar {
+
+    height: 8rem;
+}
+
+.nav-item a.active {
+    background-color: rgb(14, 151, 220);
+    border-radius: 1%;
+    
+    
+    
+}
+
+.nav-item a:hover {
+    background-color: rgb(82, 80, 79);
+    border-radius: 1%;
+    color: black;
+    
+}
+
+.title {
+    text-align: center;
+    width: 100%;
+    top: 32px;
+   padding: 25px;
+   font-family: 'Raleway', sans-serif; 
+    background-color: rgb(235, 230, 230);
+    color: #aca6a6;
+    letter-spacing: 0.5rem;
+}
+
+#laptops {
+     border-radius: 10%;
+     height: 100px;
+     
+}
+
+#servers {
+    border-radius: 10%;
+    height: 100px;
+    
+}
+.label-dropdown {
+    font-size: 15px;
+    color: #807b7b;
+}
+
+.icons {
+    background-color: rgb(240, 205, 10);
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    
+
+}
+
+.button-quote {
+
+    text-decoration: none;
+    padding: 10px 10px;
+    background-color: orange;
+    border: 2px groove orange;
+    color: white;
+}
+
+.button-quote:hover {
+    background-color: rgb(207, 174, 113);
+    color: black;
+}
+
+.color-item {
+    color: #aca6a6;
+}
